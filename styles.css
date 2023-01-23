@@ -1,0 +1,103 @@
+.bg{
+    position: relative;
+    width: 1440px;
+    height: 2622px;
+
+    background: #1A1B1E;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.bgimg{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: -40px;
+    top: -171px;
+
+    background: "bg_image";
+    filter: blur(75px);
+}
+
+.circle1{
+    position: absolute;
+    width: 955px;
+    height: 861px;
+    left: 1167.5px;
+    top: 508px;
+
+    background: #000000;
+    filter: blur(200px);
+}
+
+.circle2{
+    position: absolute;
+    width: 955px;
+    height: 861px;
+    left: -494px;
+    top: -142px;
+
+    background: #000000;
+    filter: blur(200px);
+}
+
+.tri{
+    position: absolute;
+    width: 1282.09px;
+    height: 559.03px;
+    left: 1622.48px;
+    top: 520.29px;
+
+    background: #000000;
+    filter: blur(87.5px);
+    border-radius: 114px;
+    transform: rotate(165.94deg);
+}
+
+.hello{
+    position: absolute;
+    width: 926px;
+    height: 302px;
+    left: 153px;
+    top: 311px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 85px;
+
+    color: #FFFFFF;
+}
+
+.name{
+    position: absolute;
+    width: 850px;
+    height: 118px;
+    left: 153px;
+    top: 387px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 85px;
+
+    color: #FFFFFF;
+}
+
+.sdd{
+    position: absolute;
+    width: 724px;
+    height: 88px;
+    left: 156px;
+    top: 502px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+
+}
