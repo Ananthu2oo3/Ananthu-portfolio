@@ -1,3 +1,13 @@
+@font-face {
+    font-family: Montserrat ;
+    src: url(resources/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Montserrat_medium  ;
+    src: url(resources/Montserrat/static/Montserrat-Medium.ttf);
+}
+
 .bg{
     position: relative;
     width: 1440px;
@@ -10,7 +20,7 @@
 .bgimg{
     position: absolute;
     width: 1440px;
-    height: 1024px;
+    height: 724px;
     left: -40px;
     top: -171px;
 
@@ -40,17 +50,72 @@
     filter: blur(200px);
 }
 
-.tri{
+.home{
     position: absolute;
-    width: 1282.09px;
-    height: 559.03px;
-    left: 1622.48px;
-    top: 520.29px;
+    left: 0%;
+    right: 600px;
+    top: 1%;
+    bottom: 0%;
 
-    background: #000000;
-    filter: blur(87.5px);
-    border-radius: 114px;
-    transform: rotate(165.94deg);
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.about{
+    position: absolute;
+    left: 0%;
+    right: 220px;
+    top: 1%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.skill{
+    position: absolute;
+    right: 0%;
+    left: 150px;
+    top: 1%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.blog{
+    position: absolute;
+    left: 600px;
+    right: 0%;
+    top: 1%;
+    bottom: 0%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #FFFFFF;
 }
 
 .hello{
@@ -58,11 +123,11 @@
     width: 926px;
     height: 302px;
     left: 153px;
-    top: 311px;
+    top: 200px;
 
-    font-family: 'Montserrat';
+    font-family: 'Montserrat_medium';
     font-style: normal;
-    font-weight: 600;
+    font-weight: 850;
     font-size: 70px;
     line-height: 85px;
 
@@ -74,7 +139,7 @@
     width: 850px;
     height: 118px;
     left: 153px;
-    top: 387px;
+    top: 290px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -90,7 +155,7 @@
     width: 724px;
     height: 88px;
     left: 156px;
-    top: 502px;
+    top: 400px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -100,4 +165,94 @@
 
     color: #FFFFFF;
 
+}
+
+.vector{
+    position: absolute;
+    width: 500px;
+    height: 499px;
+    left: 860px;
+    top: 120px;
+
+}
+
+.bg_about{
+    position: absolute;
+    width: 647px;
+    height: 329px;
+    left: 1088px;
+    top: 1025px;
+
+    background: url(resources/bg_image.png);
+    filter: blur(75px);
+}
+
+.pic{
+    position: absolute;
+    width: 585px;
+    height: 585px;
+    left: 89px;
+    top: 732px;
+}
+
+.me{
+    position: absolute;
+    width: 510px;
+    height: 89px;
+    left: 748px;
+    top: 938px;
+
+    font-family: 'Montserrat_medium';
+    font-style: normal;
+    font-weight: 170;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #FFFFFF;
+}
+
+.abt{
+    position: absolute;
+    width: 576px;
+    height: 240px;
+    left: 707px;
+    top: 1025px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.skill_bg{
+    position: absolute;
+    width: 965.44px;
+    height: 529.05px;
+    right: 771.27px;
+    top: 1732.49px;
+    
+    background: url(image.png);
+    filter: blur(150px);
+    border-radius: 264.524px;
+    transform: matrix(-0.79, -0.61, -0.61, 0.79, 0, 0);
+}
+
+.services{
+    position: absolute;
+    width: 695px;
+    height: 206px;
+    left: 420px;
+    top: 1370px;
+
+    font-family: 'Trirong';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 96px;
+    line-height: 166px;
+    text-align: center;
+
+    color: #FFFFFF;
 }
