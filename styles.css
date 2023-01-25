@@ -25,7 +25,7 @@
 
 .bgimg{
     /* position: absolute; */
-    width: 1440px;
+    width: 1840px;
     height: 724px;
     left: -40px;
     top: -171px;
@@ -250,7 +250,7 @@
     position: absolute;
     width: 695px;
     height: 206px;
-    left: 550px;
+    left: 475px;
     top: 1600px;
 
     font-family: 'Trirong';
@@ -263,11 +263,29 @@
     color: #FFFFFF;
 }
 
+
+.caption{
+    position: absolute;
+    width: 695px;
+    height: 206px;
+    left: 475px;
+    top: 1740px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 37px;
+    line-height: 166px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
 .rect_prg{
     position: absolute;
-    width: 280px;
-    height: 280px;
-    left: 100px;
+    width: 300px;
+    height: 300px;
+    left: 150px;
     top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -278,8 +296,8 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 118px;
-    top: 1765px;
+    left: 175px;
+    top: 2070px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -295,9 +313,9 @@
 
 .rect_dev{
     position: absolute;
-    width: 280px;
-    height: 280px;
-    left: 420px;
+    width: 300px;
+    height: 300px;
+    left: 500px;
     top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -308,8 +326,8 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 490px;
-    top: 1765px;
+    left: 580px;
+    top: 2070px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -325,9 +343,9 @@
 
 .rect_des{
     position: absolute;
-    width: 280px;
-    height: 280px;
-    left: 730px;
+    width: 300px;
+    height: 300px;
+    left: 850px;
     top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -338,8 +356,8 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 780px;
-    top: 1765px;
+    left: 920px;
+    top: 2070px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -355,9 +373,9 @@
 
 .rect_acd{
     position: absolute;
-    width: 280px;
-    height: 280px;
-    left: 1050px;
+    width: 300px;
+    height: 300px;
+    left: 1200px;
     top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -368,8 +386,8 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 1065px;
-    top: 1765px;
+    left: 1225px;
+    top: 2070px;
 
     font-family: 'Montserrat';
     font-style: normal;
