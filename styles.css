@@ -15,8 +15,8 @@
 
 
 .bg{
-    position: absolute;
-    width: 1440px;
+    /* position: absolute; */
+    width: 1400px;
     height: 900px;
 
     background: #1A1B1E;
@@ -24,7 +24,7 @@
 }
 
 .bgimg{
-    position: absolute;
+    /* position: absolute; */
     width: 1440px;
     height: 724px;
     left: -40px;
@@ -35,7 +35,7 @@
 }
 
 .circle1{
-    position: absolute;
+    /* position: absolute; */
     width: 955px;
     height: 861px;
     left: 1167.5px;
@@ -46,7 +46,7 @@
 }
 
 .circle2{
-    position: absolute;
+    /* position: absolute; */
     width: 955px;
     height: 861px;
     left: -494px;
@@ -59,7 +59,7 @@
 .home{
     position: absolute;
     left: 0%;
-    right: 600px;
+    right: 600px;   
     top: 1%;
     bottom: 0%;
 
@@ -93,7 +93,7 @@
 .skill{
     position: absolute;
     right: 0%;
-    left: 150px;
+    left: 200px;
     top: 1.0%;
     bottom: 0%;
 
@@ -109,7 +109,7 @@
 
 .blog{
     position: absolute;
-    left: 40%;
+    left: 600px;
     right: 0%;
     top: 1%;
     bottom: 0%;
@@ -128,7 +128,7 @@
     position: absolute;
     width: 926px;
     height: 302px;
-    left: 153px;
+    left: 300px;
     top: 200px;
 
     font-family: 'Montserrat_medium';
@@ -144,7 +144,7 @@
     position: absolute;
     width: 850px;
     height: 118px;
-    left: 153px;
+    left: 300px;
     top: 290px;
 
     font-family: 'Montserrat';
@@ -160,7 +160,7 @@
     position: absolute;
     width: 724px;
     height: 88px;
-    left: 156px;
+    left: 300px;
     top: 400px;
 
     font-family: 'Montserrat';
@@ -177,7 +177,7 @@
     position: absolute;
     width: 500px;
     height: 499px;
-    left: 860px;
+    left: 1000px;
     top: 120px;
 
 }
@@ -196,17 +196,17 @@
 .pic{
     position: absolute;
     width: 585px;
-    height: 565px;
-    left: 89px;
-    top: 742px;
+    height: 555px;
+    left: 289px;
+    top: 942px;
 }
 
 .me{
     position: absolute;
     width: 510px;
     height: 89px;
-    left: 748px;
-    top: 938px;
+    left: 975px;
+    top: 1030px;
 
     font-family: 'Montserrat_medium';
     font-style: normal;
@@ -221,8 +221,8 @@
     position: absolute;
     width: 576px;
     height: 240px;
-    left: 707px;
-    top: 1025px;
+    left: 925px;
+    top: 1100px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -238,7 +238,7 @@
     width: 965.44px;
     height: 529.05px;
     right: 771.27px;
-    top: 1732.49px;
+    top: 2000.49px;
     
     background: url(image.png);
     filter: blur(150px);
@@ -250,8 +250,8 @@
     position: absolute;
     width: 695px;
     height: 206px;
-    left: 390px;
-    top: 1370px;
+    left: 550px;
+    top: 1600px;
 
     font-family: 'Trirong';
     font-style: normal;
@@ -268,7 +268,7 @@
     width: 280px;
     height: 280px;
     left: 100px;
-    top: 1700px;
+    top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
     border-radius: 20px;
@@ -298,7 +298,7 @@
     width: 280px;
     height: 280px;
     left: 420px;
-    top: 1700px;
+    top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
     border-radius: 20px;
@@ -328,7 +328,7 @@
     width: 280px;
     height: 280px;
     left: 730px;
-    top: 1700px;
+    top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
     border-radius: 20px;
@@ -358,7 +358,7 @@
     width: 280px;
     height: 280px;
     left: 1050px;
-    top: 1700px;
+    top: 2000px;
 
     background: rgba(217, 217, 217, 0.25);
     border-radius: 20px;
