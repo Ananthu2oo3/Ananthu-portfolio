@@ -8,6 +8,12 @@
     src: url(resources/Montserrat/static/Montserrat-Medium.ttf);
 }
 
+@font-face {
+    font-family: Trirong  ;
+    src: url(resources/Trirong/OFL.txt);
+}
+
+
 .bg{
     position: relative;
     width: 1440px;
@@ -178,7 +184,7 @@
 
 .bg_about{
     position: absolute;
-    width: 647px;
+    width: 500px;
     height: 329px;
     left: 1088px;
     top: 1025px;
@@ -244,7 +250,7 @@
     position: absolute;
     width: 695px;
     height: 206px;
-    left: 420px;
+    left: 400px;
     top: 1370px;
 
     font-family: 'Trirong';
@@ -252,6 +258,126 @@
     font-weight: 500;
     font-size: 96px;
     line-height: 166px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rect_prg{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    left: 100px;
+    top: 1700px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 20px;
+}
+
+.text_prg{
+    position: absolute;
+    width: 245px;
+    height: 82px;
+    left: 120px;
+    top: 1765px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rect_dev{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    left: 400px;
+    top: 1700px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 20px;
+}
+
+.text_dev{
+    position: absolute;
+    width: 245px;
+    height: 82px;
+    left: 470px;
+    top: 1765px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rect_des{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    left: 700px;
+    top: 1700px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 20px;
+}
+
+.text_des{
+    position: absolute;
+    width: 245px;
+    height: 82px;
+    left: 755px;
+    top: 1765px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rect_acd{
+    position: absolute;
+    width: 280px;
+    height: 280px;
+    left: 1000px;
+    top: 1700px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 20px;
+}
+
+.text_acd{
+    position: absolute;
+    width: 245px;
+    height: 82px;
+    left: 1055px;
+    top: 1765px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
     text-align: center;
 
     color: #FFFFFF;
