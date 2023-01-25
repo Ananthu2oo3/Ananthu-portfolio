@@ -15,12 +15,12 @@
 
 
 .bg{
-    position: relative;
+    position: absolute;
     width: 1440px;
-    height: 2622px;
+    height: 900px;
 
     background: #1A1B1E;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); */
 }
 
 .bgimg{
@@ -109,7 +109,7 @@
 
 .blog{
     position: absolute;
-    left: 600px;
+    left: 40%;
     right: 0%;
     top: 1%;
     bottom: 0%;
@@ -196,9 +196,9 @@
 .pic{
     position: absolute;
     width: 585px;
-    height: 585px;
+    height: 565px;
     left: 89px;
-    top: 732px;
+    top: 742px;
 }
 
 .me{
@@ -250,7 +250,7 @@
     position: absolute;
     width: 695px;
     height: 206px;
-    left: 400px;
+    left: 390px;
     top: 1370px;
 
     font-family: 'Trirong';
@@ -278,7 +278,7 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 120px;
+    left: 118px;
     top: 1765px;
 
     font-family: 'Montserrat';
@@ -297,7 +297,7 @@
     position: absolute;
     width: 280px;
     height: 280px;
-    left: 400px;
+    left: 420px;
     top: 1700px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -308,7 +308,7 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 470px;
+    left: 490px;
     top: 1765px;
 
     font-family: 'Montserrat';
@@ -327,7 +327,7 @@
     position: absolute;
     width: 280px;
     height: 280px;
-    left: 700px;
+    left: 730px;
     top: 1700px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -338,7 +338,7 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 755px;
+    left: 780px;
     top: 1765px;
 
     font-family: 'Montserrat';
@@ -357,7 +357,7 @@
     position: absolute;
     width: 280px;
     height: 280px;
-    left: 1000px;
+    left: 1050px;
     top: 1700px;
 
     background: rgba(217, 217, 217, 0.25);
@@ -368,7 +368,7 @@
     position: absolute;
     width: 245px;
     height: 82px;
-    left: 1055px;
+    left: 1065px;
     top: 1765px;
 
     font-family: 'Montserrat';
