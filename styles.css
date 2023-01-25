@@ -186,10 +186,10 @@
     position: absolute;
     width: 500px;
     height: 329px;
-    left: 1088px;
+    left: 1000px;
     top: 1025px;
 
-    background: url(resources/bg_image.png);
+    /* background: url(resources/bg_image.png); */
     filter: blur(75px);
 }
 
@@ -237,8 +237,8 @@
     position: absolute;
     width: 965.44px;
     height: 529.05px;
-    right: 771.27px;
-    top: 2000.49px;
+    right: 50px;
+    top: 2000px;
     
     background: url(image.png);
     filter: blur(150px);
