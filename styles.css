@@ -251,7 +251,7 @@
     width: 695px;
     height: 206px;
     left: 600px;
-    top: 1600px;
+    top: 1560px;
 
     font-family: 'Trirong';
     font-style: normal;
@@ -400,3 +400,135 @@
 
     color: #FFFFFF;
 }
+
+.blog_bg{
+    position: relative;
+    width: 1816.3px;
+    height: 429.05px;
+    /* right: 438.23px; */
+    top: 2500px;
+
+    background: url(image);
+    filter: blur(120px);
+    border-radius: 264.524px;
+    transform: rotate(179.9deg);
+}
+
+.blg_rect{
+    position: absolute;
+    width: 503px;
+    height: 725px;
+    left: -47px;
+    top: 2551px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 50px;
+}
+
+.art{
+    position: absolute;
+    width: 395px;
+    height: 339px;
+    left: 60px;
+    top: 2520px;
+
+    font-family: 'Trirong';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 115px;
+    line-height: 100px;
+
+    color: #FFFFFF;
+
+}
+
+.aws_title{
+    position: absolute;
+    width: 439px;
+    height: 78px;
+    left: 620px;
+    top: 2600px;
+
+    font-family: 'Montserrat_medium';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+
+.aws_cnt{
+    position: absolute;
+    width: 470px;
+    height: 165px;
+    left: 600.06px;
+    top: 2670px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+
+}
+
+.aws_pic{
+    position: absolute;
+    width: 418px;
+    height: 260px;
+    left: 1130px;
+    top: 2610px;
+
+    /* background: url(image.png); */
+    border-radius: 35px;
+}
+
+.aws_rect{
+    position: absolute;
+    width: 418px;
+    height: 260px;
+    left: 1145px;
+    top: 2625.4px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 35px;
+}
+
+.cidr_title{
+    position: absolute;
+    width: 320px;
+    height: 79px;
+    left: 1180px;
+    top: 2980px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.cidr_cnt{
+    position: absolute;
+    width: 434px;
+    height: 166px;
+    left: 1100px;
+    top: 3080px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
