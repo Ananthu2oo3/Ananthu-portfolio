@@ -12,7 +12,7 @@ element.scrollIntoView({behavior: "smooth"});
 
 var scrollButton = document.getElementById("scroll-blogs");
 scrollButton.addEventListener("click", function() {
-var element = document.getElementById("art");
+var element = document.getElementById("blog");
 element.scrollIntoView({behavior: "smooth"});
 });
 
