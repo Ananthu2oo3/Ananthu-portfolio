@@ -75,8 +75,8 @@
 
 .about{
     position: absolute;
+
     left: 50%;
-    /* right: 220px; */
     top: 4%;
     bottom: 0%;
 
@@ -92,7 +92,6 @@
 
 .skillset{
     position: absolute;
-    /* right: 70%; */
     left: 70%;
     top: 4.0%;
     bottom: 0%;
@@ -110,9 +109,8 @@
 .blog{
     position: absolute;
     left: 90%;
-    /* right: 90%; */
     top: 4%;
-    /* bottom: 0%; */
+    bottom: 0%;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -404,7 +402,7 @@
 .blog_bg{
     position: relative;
     width: 1816.3px;
-    height: 429.05px;
+    height: 380.05px;
     /* right: 438.23px; */
     top: 2500px;
 
@@ -412,6 +410,22 @@
     filter: blur(120px);
     border-radius: 264.524px;
     transform: rotate(179.9deg);
+}
+
+.start{
+    position: absolute;
+    width: 503px;
+    height: 725px;
+    left: 747px;
+    top: 2400px;
+
+    font-family: 'Trirong';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100px;
+
+    color: #FFFFFF;
 }
 
 .blg_rect{
@@ -620,15 +634,15 @@
     left: -1px;
     top: 3450px;
 
-    border: 3px solid #FFFFFF;
+    border: 2px solid #FFFFFF;
 }
 
 .cpy{
     position: absolute;
     width: 534px;
     height: 52px;
-    left: 180px;
-    top: 3480px;
+    left: 120px;
+    top: 3500px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -641,24 +655,24 @@
 
 .insta{
     position: absolute;
-    width: 70px;
-    height: 70px;
-    left: 1200px;
-    top: 3480px;
+    width: 50px;
+    height: 50px;
+    left: 1400px;
+    top: 3520px;
 }
 
 .github{
     position: absolute;
-    width: 70px;
-    height: 70px;
-    left: 1320px;
-    top: 3480px;
+    width: 50px;
+    height: 50px;
+    left: 1520px;
+    top: 3520px;
 }
 
 .linkedin{
     position: absolute;
-    width: 70px;
-    height: 70px;
-    left: 1440px;
-    top: 3480px;
+    width: 50px;
+    height: 50px;
+    left: 1640px;
+    top: 3520px;
 }
