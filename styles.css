@@ -62,6 +62,7 @@
     /* right: 600px;    */
     top: 4%;
     bottom: 0%;
+    cursor: pointer;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -75,7 +76,7 @@
 
 .about{
     position: absolute;
-
+    cursor: pointer;
     left: 50%;
     top: 4%;
     bottom: 0%;
@@ -95,7 +96,7 @@
     left: 70%;
     top: 4.0%;
     bottom: 0%;
-
+    cursor: pointer;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
@@ -111,7 +112,7 @@
     left: 90%;
     top: 4%;
     bottom: 0%;
-
+    cursor: pointer;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
